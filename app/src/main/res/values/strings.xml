@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Beer List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Olá, tela vazia</string>
+    <string name="item_pesquisa">Pesquisa</string>
+    <string name="item_favorito">Favorito</string>
+
+</resources>
