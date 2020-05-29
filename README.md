@@ -1,5 +1,5 @@
 # BeerList
-App que utiliza as bibliotecas Picasso + RxJava + ORMLite e a Punk Api (https://punkapi.com/documentation/v2) e realiza as seguintes tarefas:
+Um app que utiliza as bibliotecas Picasso + RxJava + ORMLite e a Punk Api (https://punkapi.com/documentation/v2) e realiza as seguintes tarefas:
 
 ✓ Visualizar a lista de cervejas fornecidas pela Punk Api.
 
